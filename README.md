@@ -1,7 +1,7 @@
 ## You discovered my profile!  <img src="https://media.giphy.com/media/WrlVBo6lEJEVA8EJOs/giphy.gif" width="50">
 
 Welcome to my GitHub profile page!</br>
-I've started my career as a business consultant, but through the years I constantly heard that some features and improvements that I wanted to achieve were impossible. So I decided to study and become a developer myself.
+I've started my career as a business consultant, but through the years I was constantly told that some features and improvements that I wanted to achieve were impossible. So I decided to study and become a developer myself.
 
 Almost 6 years later, some features and improvements are still impossible <img src="https://media.giphy.com/media/LrC1m7Ay3xsha/giphy.gif" width="50">
 
@@ -55,23 +55,3 @@ Not funny at all.
 <a href="https://github.com/thiagovasconcellos/be-the-hero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=be-the-hero&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-<!--
-**thiagovasconcellos/thiagovasconcellos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-My GitStats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thiagovasconcellos&show_icons=true&line_height=27" alt="My github stats" />
-</a>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
