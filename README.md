@@ -12,7 +12,8 @@ Developer at [NewSpace](https://www.newspace.com.br/)</br>
 
 ## 📚 Studying
 
-UI/UX Prototyping 👨‍🎨</br>
+Blockchain Development ⛏ </br>
+Solidity 💻</br>
 Deutsch 🇩🇪
 
 ## 👨‍💻 & 🧰 Technologies and tools
