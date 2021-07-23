@@ -1,6 +1,5 @@
 ## You discovered my profile!  <img src="https://media.giphy.com/media/WrlVBo6lEJEVA8EJOs/giphy.gif" width="50">
 
-Welcome to my GitHub profile page!</br>
 I've started my career as a business consultant, but through the years I was constantly told that some features and improvements that I wanted to achieve were impossible. So I decided to study and become a developer myself.
 
 Almost 8 years later, some features and improvements are still impossible <img src="https://media.giphy.com/media/LrC1m7Ay3xsha/giphy.gif" width="50">
