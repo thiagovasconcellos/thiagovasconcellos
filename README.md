@@ -30,7 +30,7 @@ My [grandfather](https://scontent.fssz1-1.fna.fbcdn.net/v/t1.0-9/424953_35261480
 Not funny at all.
 
 ## ✉️ Contact-me
-<a href="https://www.linkedin.com/in/thiago-vasconcellos-ba070442/"><img src="https://image.flaticon.com/icons/svg/145/145807.svg" width="48" /></a> <a href="https://discord.com/users/227819473187373056"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="48"/></a>
+<a href="https://www.linkedin.com/in/thiago-vasconcellos-ba070442/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" /></a> <a href="https://discord.com/users/227819473187373056"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="48"/></a>
 
 ## 📊 GitHub stats
 
