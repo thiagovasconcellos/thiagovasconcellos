@@ -16,15 +16,13 @@ Solidity 💻</br>
 Deutsch 🇩🇪
 
 ## 👨‍💻 & 🧰 Technologies and tools
-<img src="https://image.flaticon.com/icons/svg/919/919825.svg" width="48"/> <img src="https://image.flaticon.com/icons/svg/919/919832.svg" width="48"/> <img src="https://image.flaticon.com/icons/svg/919/919851.svg" width="48"/> <img src="https://image.flaticon.com/icons/svg/919/919828.svg" width="48"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" width="48"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="48"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="48"/> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" width="48"/> <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png" width="48"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" width="48"/> 
 </br>
-<img src="https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png" width="48"/> <img src="https://image.flaticon.com/icons/svg/919/919826.svg" width="48"/>
+<img src="https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png" width="48"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" width="48"/>
 </br>
-<img src="https://image.flaticon.com/icons/svg/919/919853.svg" width="48"/> <img src="https://image.flaticon.com/icons/svg/919/919847.svg" width="48"/> <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" width="48"/> <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_icon_blue.svg" width="48"/>
-</br>
-<img src="https://image.flaticon.com/icons/svg/919/919836.svg" width="48"/> <img src="https://f0.pngfuel.com/png/241/983/mongodb-nosql-database-computer-icons-others-png-clip-art.png" width="48"/> <img src="https://www.pinpng.com/pngs/m/561-5614152_sqlite-square-icon-sqlite-logo-hd-png-download.png" width="48"/>
-</br>
-<img src="https://image.flaticon.com/icons/svg/552/552224.svg" width="48"/> <img src="https://image.flaticon.com/icons/svg/552/552222.svg" width="48"/>
+
+Docker | Amazon AWS | Kubernetes
+SQLServer | PostgreSQL | MySQL | MongoDB | Redis
 
 ## 🎉 Fun Fact
 
@@ -53,5 +51,9 @@ Not funny at all.
 </a>
 
 <a href="https://github.com/thiagovasconcellos/be-the-hero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=be-the-hero&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/thiagovasconcellos/tcv-money">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=be-the-hero&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
