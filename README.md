@@ -27,7 +27,6 @@ SQLServer | PostgreSQL | MySQL | MongoDB | Redis
 ## 🎉 Fun Fact
 
 My [grandfather](https://scontent.fssz1-1.fna.fbcdn.net/v/t1.0-9/424953_3526148042168_1688013041_n.jpg?_nc_cat=104&_nc_sid=2c4854&_nc_ohc=fvlzqaYOH1QAX_HBs1R&_nc_ht=scontent.fssz1-1.fna&oh=15839a2c55f98c38529a86f831ff81bd&oe=5F723E6B) was a humorist. Not me.</br>
-Not funny at all.
 
 ## ✉️ Contact-me
 <a href="https://www.linkedin.com/in/thiago-vasconcellos-ba070442/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" /></a> <a href="https://discord.com/users/227819473187373056"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="48"/></a>
