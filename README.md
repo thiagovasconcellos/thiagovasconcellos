@@ -44,12 +44,12 @@ My [grandfather](https://scontent.fssz1-1.fna.fbcdn.net/v/t1.0-9/424953_35261480
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=barber-2020&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/thiagovasconcellos/be-the-hero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=be-the-hero&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/thiagovasconcellos/timer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=timer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/thiagovasconcellos/tcv-money">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=tcv-money&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/thiagovasconcellos/money-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=money-v2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/thiagovasconcellos/tcv-news">
