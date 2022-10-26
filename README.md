@@ -39,8 +39,11 @@ My [grandfather](https://scontent.fssz1-1.fna.fbcdn.net/v/t1.0-9/424953_35261480
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=brzipcode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/thiagovasconcellos/https://github.com/thiagovasconcellos/crypto-c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=crypto-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<a href="https://github.com/thiagovasconcellos/barber-2020">
+<a href="https://github.com/thiagovasconcellos/https://github.com/thiagovasconcellos/barber-2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagovasconcellos&repo=barber-2020&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
