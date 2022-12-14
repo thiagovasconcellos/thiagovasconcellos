@@ -6,7 +6,7 @@ Almost 8 years later, some features and improvements are still impossible <img s
 
 ## 💼 Currently working
 Tech Lead at [CBYK](https://www.cbyk.com.br/)</br>
-Fullstack developer at [OpenSky Data](https://www.openskydata.com//)</br>
+Backend developer at [Tecnobank](https://www.tecnobank.com.br/)</br>
 
 ## 📚 Studying
 
