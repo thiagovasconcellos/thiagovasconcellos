@@ -6,7 +6,7 @@ I've started my career as a business consultant, but through the years I was con
 
 ## 💼 Currently working
 Tech Lead at [CBYK](https://www.cbyk.com.br/)</br>
-Backend developer at [Tecnobank](https://www.tecnobank.com.br/)</br>
+PMO at [Easy24](https://app.easy24.app/#/)</br>
 
 ## 📚 Studying
 
